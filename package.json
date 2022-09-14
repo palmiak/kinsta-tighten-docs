@@ -1,5 +1,6 @@
 {
     "private": true,
+    "name": "kinsta-jigsaw-docs",
     "scripts": {
         "dev": "mix",
         "watch": "mix watch",
