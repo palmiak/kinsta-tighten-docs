@@ -5,7 +5,7 @@
         "dev": "mix",
         "watch": "mix watch",
         "prod": "mix --production",
-        "start": "serve build_production/"
+        "start": "serve ."
     },
     "devDependencies": {
         "docsearch.js": "^2.6.3",
