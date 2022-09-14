@@ -1,1 +1,1 @@
-web: php vendor/bin/jigsaw build && serve build_production/
+web: npm run prod && php vendor/bin/jigsaw build && npm run start
