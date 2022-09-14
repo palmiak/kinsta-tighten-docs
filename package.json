@@ -5,7 +5,7 @@
         "dev": "mix",
         "watch": "mix watch",
         "prod": "mix --production",
-        "start": "php vendor/bin/jigsaw build && serve build_local/"
+        "start": "php vendor/bin/jigsaw build && serve build_production/"
     },
     "devDependencies": {
         "docsearch.js": "^2.6.3",

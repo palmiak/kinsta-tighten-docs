@@ -1,0 +1,1 @@
+web: php vendor/bin/jigsaw build && serve build_production/
